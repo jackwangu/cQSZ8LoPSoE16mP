@@ -6,6 +6,8 @@ DOMAIN-KEYWORD,proxy
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,cmliussss
+DOMAIN-KEYWORD,telegram
 
 # 零散
 DOMAIN-SUFFIX,githubusercontent.com
@@ -17,6 +19,19 @@ DOMAIN-SUFFIX,cookingtime.us.kg
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastgit.net
 DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,itdog.cn
+DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,ip111.cn
+DOMAIN-SUFFIX,wetest.vip
+DOMAIN-SUFFIX,cf.090227
+DOMAIN-SUFFIX,ip.164746
+DOMAIN-SUFFIX,hostmonit.com
+DOMAIN-SUFFIX,030101.xyz
+DOMAIN-SUFFIX,cmliussss.com
 
 # 摄影
 DOMAIN-SUFFIX,166.run
