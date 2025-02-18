@@ -18,6 +18,10 @@ DOMAIN-KEYWORD,vps
 DOMAIN-KEYWORD,sing-box
 DOMAIN-KEYWORD,sagernet
 
+# 解决绕过大陆后谷歌商店无法更新
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+
 # 零散
 DOMAIN-SUFFIX,koofr.eu
 DOMAIN-SUFFIX,grok.com
