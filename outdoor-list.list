@@ -1,32 +1,5 @@
-# 关键词
-DOMAIN-KEYWORD,clash
-DOMAIN-KEYWORD,mihomo
-DOMAIN-KEYWORD,v2ray
-DOMAIN-KEYWORD,proxy
-DOMAIN-KEYWORD,metacubex
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,cmliussss
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,v2fly
 DOMAIN-KEYWORD,fuliba
-DOMAIN-KEYWORD,daili
-DOMAIN-KEYWORD,csdn
-DOMAIN-KEYWORD,shadow
 DOMAIN-KEYWORD,cnblogs
-DOMAIN-KEYWORD,vps
-DOMAIN-KEYWORD,sing-box
-DOMAIN-KEYWORD,sagernet
-
-# 解决绕过大陆后谷歌商店无法更新
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,android.clients.google.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# 零散
 DOMAIN-SUFFIX,koofr.eu
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,darkreader.org
@@ -42,7 +15,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastgit.net
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,itdog.cn
@@ -54,6 +26,47 @@ DOMAIN-SUFFIX,hostmonit.com
 DOMAIN-SUFFIX,030101.xyz
 DOMAIN-SUFFIX,cmliussss.com
 DOMAIN-SUFFIX,commafeed.com
+
+
+
+
+# 代理工具关键词
+DOMAIN-KEYWORD,clash
+DOMAIN-KEYWORD,mihomo
+DOMAIN-KEYWORD,v2ray
+DOMAIN-KEYWORD,proxy
+DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,cmliussss
+DOMAIN-KEYWORD,v2fly
+DOMAIN-KEYWORD,daili
+DOMAIN-KEYWORD,shadowrocket
+DOMAIN-KEYWORD,vps
+DOMAIN-KEYWORD,vpn
+DOMAIN-KEYWORD,sing-box
+DOMAIN-KEYWORD,singbox
+DOMAIN-KEYWORD,sagernet
+DOMAIN-KEYWORD,nekobox
+DOMAIN-KEYWORD,nekoray
+DOMAIN-KEYWORD,surfshark
+DOMAIN-KEYWORD,shadowsocks
+DOMAIN-KEYWORD,trojan
+DOMAIN-KEYWORD,brook
+DOMAIN-KEYWORD,xray
+DOMAIN-KEYWORD,kitsunebi
+DOMAIN-KEYWORD,outline
+DOMAIN-KEYWORD,psiphon
+DOMAIN-KEYWORD,lantern
+DOMAIN-KEYWORD,wireguard
+DOMAIN-KEYWORD,openvpn
+DOMAIN-KEYWORD,gfw
+
+# 解决绕过大陆后谷歌商店无法更新
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 新闻top30
 DOMAIN-SUFFIX,bbc.com
