@@ -1,20 +1,13 @@
+DOMAIN-KEYWORD,deepl
 DOMAIN-KEYWORD,fuliba
 DOMAIN-KEYWORD,cnblogs
 DOMAIN-SUFFIX,koofr.eu
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,follow.is
 DOMAIN-SUFFIX,23img.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,ssss.monster
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,090227.xyz
-DOMAIN-SUFFIX,us.kg
-DOMAIN-SUFFIX,cookingtime.us.kg
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,fastgit.net
-DOMAIN-SUFFIX,v2fly.org
-DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,commafeed.com
+
+# 代理工具关键词，域名
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,itdog.cn
@@ -24,13 +17,17 @@ DOMAIN-SUFFIX,wetest.vip
 DOMAIN-SUFFIX,164746.xyz
 DOMAIN-SUFFIX,hostmonit.com
 DOMAIN-SUFFIX,030101.xyz
-DOMAIN-SUFFIX,cmliussss.com
-DOMAIN-SUFFIX,commafeed.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,fastgit.net
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,ssss.monster
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,090227.xyz
+DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,cookingtime.us.kg
 
-
-
-
-# 代理工具关键词
+# 代理工具关键词，关键词
 DOMAIN-KEYWORD,bulianglin
 DOMAIN-KEYWORD,clash
 DOMAIN-KEYWORD,mihomo
