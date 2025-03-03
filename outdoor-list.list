@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,follow.is
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,commafeed.com
 
-# 代理工具关键词，域名
+# 代理工具域名
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,itdog.cn
@@ -27,13 +27,12 @@ DOMAIN-SUFFIX,090227.xyz
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,cookingtime.us.kg
 
-# 代理工具关键词，关键词
+# 代理工具关键词
 DOMAIN-KEYWORD,ygkkk
 DOMAIN-KEYWORD,bulianglin
 DOMAIN-KEYWORD,clash
 DOMAIN-KEYWORD,mihomo
 DOMAIN-KEYWORD,v2ray
-DOMAIN-KEYWORD,proxy
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,cmliussss
 DOMAIN-KEYWORD,v2fly
