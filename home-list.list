@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,right.com.cn
+
+#连通测试(直连)
+DOMAIN-SUFFIX,connect.rom.miui.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,captive.apple.com
