@@ -48,7 +48,7 @@ DOMAIN-KEYWORD,openvpn
 DOMAIN-KEYWORD,gfw
 
 # 解决绕过大陆后谷歌商店无法更新
-DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,play.googleapis.com
