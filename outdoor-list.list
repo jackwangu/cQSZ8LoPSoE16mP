@@ -1,5 +1,11 @@
 DOMAIN-SUFFIX,23img.com
 
+# 放置DNS泄露
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,app-analytics-services.com
+
+
 # 代理工具域名
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip.sb
