@@ -1,9 +1,6 @@
 DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,right.com.cn
 
-# 宜家wifi认证
-DOMAIN-SUFFIX,ikeap0rtal.com
-
 # Windows更新
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -15,9 +12,3 @@ DOMAIN-SUFFIX,ntservicepack.microsoft.com
 DOMAIN-SUFFIX,go.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
-
-# 连接验证
-DOMAIN-SUFFIX,connect.rom.miui.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,captive.apple.com
