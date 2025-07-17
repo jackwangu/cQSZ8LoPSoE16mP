@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,23img.com
 
+# folo
+
 # 防止DNS泄露
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,google.cn
