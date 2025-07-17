@@ -1,8 +1,6 @@
 #--- 正则包名匹配 ---#
-
 PROCESS-NAME-REGEX,(?i)xiaomi
 PROCESS-NAME-REGEX,(?i)miui
-
 PROCESS-NAME-REGEX,(?i)ali
 PROCESS-NAME-REGEX,(?i)taobao
 PROCESS-NAME-REGEX,(?i)tmall
@@ -10,17 +8,14 @@ PROCESS-NAME-REGEX,(?i)jd
 PROCESS-NAME-REGEX,(?i)jingdong
 PROCESS-NAME-REGEX,(?i)meituan
 PROCESS-NAME-REGEX,(?i)pinduoduo
-  
+PROCESS-NAME-REGEX,(?i)tencent
 PROCESS-NAME-REGEX,(?i)bank
 PROCESS-NAME-REGEX,(?i)ali
 
 
-#--- gpt给出的国内apk包名 ---#
-
 
   
 #--- 准确包名匹配 --- #
-  
 #百度地图
 PROCESS-NAME,com.baidu.BaiduMap
 
