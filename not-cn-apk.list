@@ -6,3 +6,6 @@ PROCESS-NAME,com.metrolist.music
 
 # Notion
 PROCESS-NAME,notion.id
+
+# chatgpt
+PROCESS-NAME,com.openai.chatgpt
