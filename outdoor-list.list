@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,23img.com
 
-# 放置DNS泄露
+# 防止DNS泄露
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -31,27 +31,14 @@ DOMAIN-KEYWORD,v2ray
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,cmliussss
 DOMAIN-KEYWORD,v2fly
-DOMAIN-KEYWORD,daili
 DOMAIN-KEYWORD,shadowrocket
-DOMAIN-KEYWORD,vps
-DOMAIN-KEYWORD,vpn
 DOMAIN-KEYWORD,sing-box
 DOMAIN-KEYWORD,singbox
 DOMAIN-KEYWORD,sagernet
 DOMAIN-KEYWORD,nekobox
 DOMAIN-KEYWORD,nekoray
-DOMAIN-KEYWORD,surfshark
 DOMAIN-KEYWORD,shadowsocks
-DOMAIN-KEYWORD,trojan
-DOMAIN-KEYWORD,brook
-DOMAIN-KEYWORD,xray
-DOMAIN-KEYWORD,kitsunebi
-DOMAIN-KEYWORD,outline
-DOMAIN-KEYWORD,psiphon
-DOMAIN-KEYWORD,lantern
 DOMAIN-KEYWORD,wireguard
-DOMAIN-KEYWORD,openvpn
-DOMAIN-KEYWORD,gfw
 
 # 解决绕过大陆后谷歌商店无法更新
 DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
