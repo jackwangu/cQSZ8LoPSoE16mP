@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,23img.com
 
 # folo
+DOMAIN-SUFFIX,follow.is
 
 # 防止DNS泄露
 DOMAIN-KEYWORD,google
