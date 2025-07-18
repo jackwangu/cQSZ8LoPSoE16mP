@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,23img.com
 # folo
 DOMAIN-SUFFIX,follow.is
 
+# plex
+DOMAIN-SUFFIX,plex.tv
+
 # 防止DNS泄露
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,google.cn
