@@ -13,3 +13,9 @@
 +.go.microsoft.com
 +.dl.delivery.mp.microsoft.com
 +.delivery.mp.microsoft.com
+
+# 连通检测规则
++.connect.rom.miui.com
++.msftconnecttest.com
++.msftncsi.com
++.captive.apple.com
