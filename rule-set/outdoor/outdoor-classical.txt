@@ -1,0 +1,30 @@
+# 谷歌地球
+PROCESS-NAME,com.google.earth
+
+# Folo
+PROCESS-NAME,is.follow
+
+# Metrolist
+PROCESS-NAME,com.metrolist.music
+
+# Notion
+PROCESS-NAME,notion.id
+
+# 代理工具关键词
+DOMAIN-KEYWORD,ygkkk
+DOMAIN-KEYWORD,bulianglin
+DOMAIN-KEYWORD,clash
+DOMAIN-KEYWORD,mihomo
+DOMAIN-KEYWORD,v2ray
+DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,cmliussss
+DOMAIN-KEYWORD,v2fly
+DOMAIN-KEYWORD,shadowrocket
+DOMAIN-KEYWORD,sing-box
+DOMAIN-KEYWORD,singbox
+DOMAIN-KEYWORD,sagernet
+DOMAIN-KEYWORD,nekobox
+DOMAIN-KEYWORD,nekoray
+DOMAIN-KEYWORD,shadowsocks
+DOMAIN-KEYWORD,wireguard
+DOMAIN-KEYWORD,google

@@ -1,0 +1,32 @@
+# 未分类
++.23img.com
++.follow.is
++.plex.tv
++.darkreader.org
++.google.cn
++.app-analytics-services.com
+
+# 解决绕过大陆后谷歌商店无法更新
++.xn–ngstr-cn-8za9o.com
++.googleapis.cn
++.services.googleapis.cn
++.play.googleapis.com
++.connectivitycheck.gstatic.com
++.android.clients.google.com
++.xn--ngstr-lra8j.com
+
+# 代理工具防漏兜底
++.ipleak.net
++.ip.sb
++.itdog.cn
++.ipdata.co
++.ip111.cn
++.wetest.vip
++.164746.xyz
++.hostmonit.com
++.030101.xyz
++.browserleaks.com
++.jsdelivr.net
++.fastgit.net
++.metacubex.one
++.090227.xyz
