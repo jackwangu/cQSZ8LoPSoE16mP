@@ -6,6 +6,13 @@
 +.google.cn
 +.app-analytics-services.com
 
+# grok
++.statsigcdn.com
++.statsigapi.net
++.beyondwickedmapping.org
++.featureassets.org
++.prodregistryv2.org
+
 # 解决绕过大陆后谷歌商店无法更新
 +.xn–ngstr-cn-8za9o.com
 +.googleapis.cn
