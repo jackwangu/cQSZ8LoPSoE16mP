@@ -1,3 +1,6 @@
+# grok
+PROCESS-NAME,ai.x.grok
+
 # 谷歌地球
 PROCESS-NAME,com.google.earth
 
