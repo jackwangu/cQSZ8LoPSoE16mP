@@ -7,7 +7,7 @@
 +.google.cn
 +.app-analytics-services.com
 +.bgithub.xyz
-
++.gitmirror.com
 
 # grok
 +.statsigcdn.com
