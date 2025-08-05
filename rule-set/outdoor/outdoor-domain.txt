@@ -6,7 +6,7 @@
 +.darkreader.org
 +.google.cn
 +.app-analytics-services.com
-
++.bgithub.xyz
 
 
 # grok
