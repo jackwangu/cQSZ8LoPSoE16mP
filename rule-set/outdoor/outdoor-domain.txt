@@ -10,7 +10,7 @@
 +.gitmirror.com
 +.vivaldi.net
 +.vivaldi.com
-
++.linux.do
 
 
 
