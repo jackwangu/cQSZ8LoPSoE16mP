@@ -8,6 +8,13 @@
 +.app-analytics-services.com
 +.bgithub.xyz
 +.gitmirror.com
++.vivaldi.net
++.vivaldi.com
+
+
+
+
+
 
 # grok
 +.statsigcdn.com
