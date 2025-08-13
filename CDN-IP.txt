@@ -2,3 +2,4 @@
 104.17.175.120#电信
 104.18.38.53#联通
 104.17.221.1#联通
+Y7jWsVhwjhTtk.cloudflare.182682.xyz#wetest_cname
