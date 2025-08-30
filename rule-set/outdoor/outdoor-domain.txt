@@ -12,7 +12,8 @@
 +.vivaldi.com
 +.linux.do
 +.ipwho.is
-
++.ip.sb
++.ipapi.is
 
 
 
@@ -47,5 +48,6 @@
 +.fastgit.net
 +.metacubex.one
 +.090227.xyz
+
 
 
