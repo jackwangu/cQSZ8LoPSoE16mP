@@ -1,1 +1,7 @@
 PROCESS-NAME,is.follow
+PROCESS-NAME,com.openai.chatgpt
+PROCESS-NAME,ai.x.grok
+PROCESS-NAME,com.twitter.android
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,com.github.android
+PROCESS-NAME,com.dd3boh.outertune
