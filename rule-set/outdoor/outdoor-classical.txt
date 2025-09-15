@@ -6,3 +6,4 @@ PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,com.github.android
 PROCESS-NAME,com.dd3boh.outertune
 PROCESS-NAME,com.positron_it.zlib
+PROCESS-NAME,com.google.android.youtube
