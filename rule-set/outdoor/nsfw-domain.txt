@@ -3,3 +3,4 @@
 +.missav.ws
 +.netflav.com
 +.javlibrary.com
++.nowosama.com
