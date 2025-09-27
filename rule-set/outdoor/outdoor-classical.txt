@@ -10,3 +10,4 @@ PROCESS-NAME,com.google.android.youtube
 PROCESS-NAME,ch.protonmail.android
 PROCESS-NAME,com.instagram.android
 PROCESS-NAME,com.fivehundredpx.viewer
+PROCESS-NAME,com.vivaldi.browser
