@@ -9,6 +9,7 @@
 +.api.installer.xiaomi.com
 +.tmfsdk.m.qq.com
 +.a0.app.xiaomi.com
++.app.chat.global.xiaomi.net
 
 #屏蔽后无法矫正流量，但是也用来下载白名单
 +.api.sec.miui.com
