@@ -19,7 +19,9 @@
 +.api.nullptr.icu
 +.assetsconfigcdn.org
 +.posthog.com
-
++.tospotify.com
++.branch.io
++.adsrvr.org
 
 
 
