@@ -22,7 +22,7 @@
 +.tospotify.com
 +.branch.io
 +.adsrvr.org
-
++.sentry.io
 
 
 
@@ -67,3 +67,4 @@
 +.us.kg
 +.digitalplat.org
 +.crvesoft.top
+
