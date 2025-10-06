@@ -6,3 +6,4 @@
 +.appest.com
 +.ticktick.com
 +.dida365.com
++.sessions.bugsnag.com
