@@ -1,3 +1,8 @@
 # 未分类
 +.appinn.net
 +.right.com.cn
+
+# 滴答清单
++.appest.com
++.ticktick.com
++.dida365.com
