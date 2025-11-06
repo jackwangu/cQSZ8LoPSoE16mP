@@ -2,6 +2,7 @@
 +.gh-proxy.com
 +.23img.com
 +.follow.is
++.folo.is
 +.plex.tv
 +.darkreader.org
 +.google.cn
