@@ -55,6 +55,7 @@
 +.hostmonit.com
 +.030101.xyz
 +.browserleaks.com
++.browserleaks.net
 +.jsdelivr.net
 +.fastgit.net
 +.metacubex.one
@@ -68,4 +69,5 @@
 +.us.kg
 +.digitalplat.org
 +.crvesoft.top
+
 
