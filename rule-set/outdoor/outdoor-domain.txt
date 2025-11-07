@@ -25,7 +25,7 @@
 +.adsrvr.org
 +.sentry.io
 +.framatube.org
-
++.cmoontv.dedyn.io
 
 
 # grok
@@ -62,12 +62,3 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
-+.cmoontv.dedyn.io
-
-# 代理服务商
-+.cccat.io
-+.us.kg
-+.digitalplat.org
-+.crvesoft.top
-
-
