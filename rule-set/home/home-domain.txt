@@ -1,6 +1,7 @@
 # 未分类
 +.appinn.net
 +.right.com.cn
++.panyq.com
 
 # 滴答清单
 +.appest.com
