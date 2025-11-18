@@ -26,6 +26,7 @@
 +.sentry.io
 +.framatube.org
 +.cmoontv.dedyn.io
++.jsdelivr.net
 
 
 # grok
@@ -62,3 +63,4 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
+
