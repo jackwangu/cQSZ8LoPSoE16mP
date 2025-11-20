@@ -27,6 +27,8 @@
 +.framatube.org
 +.cmoontv.dedyn.io
 +.jsdelivr.net
++.githubusercontent.com
+
 
 # dns泄露检测
 +.browserleaks.net
@@ -67,5 +69,6 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
+
 
 
