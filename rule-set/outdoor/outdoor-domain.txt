@@ -28,6 +28,10 @@
 +.cmoontv.dedyn.io
 +.jsdelivr.net
 
+# dns泄露检测
++.browserleaks.net
++.browserleaks.com
++.browserleaks.org
 
 # grok
 +.statsigcdn.com
@@ -63,4 +67,5 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
+
 
