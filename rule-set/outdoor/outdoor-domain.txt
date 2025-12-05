@@ -25,10 +25,11 @@
 +.adsrvr.org
 +.sentry.io
 +.framatube.org
-+.cmoontv.dedyn.io
 +.jsdelivr.net
 +.githubusercontent.com
 
+# moon影视、cm影视
++.cmoontv.dedyn.io
 
 # dns泄露检测
 +.browserleaks.net
@@ -69,6 +70,7 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
+
 
 
 
