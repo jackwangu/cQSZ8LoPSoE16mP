@@ -53,6 +53,7 @@
 +.xn--ngstr-lra8j.com
 
 # 代理工具防漏兜底
++.nikkinikki.pages.dev
 +.ipleak.net
 +.ip.sb
 +.itdog.cn
@@ -70,6 +71,7 @@
 +.090227.xyz
 +.cmliussss.net
 +.cmliussss.com
+
 
 
 
