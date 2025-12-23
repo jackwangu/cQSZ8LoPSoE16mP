@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,coomer.st
+DOMAIN-SUFFIX,coomer.su
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,nowosama.com
+DOMAIN-SUFFIX,geekadm.net
+DOMAIN-SUFFIX,motv.app
