@@ -1,2 +1,12 @@
 # 代理apk
 PROCESS-NAME,com.google.android.youtube.pro
+PROCESS-NAME,io.anytype.app
+PROCESS-NAME,ai.x.grok
+PROCESS-NAME,com.openai.chatgpt
+PROCESS-NAME,com.github.libretube
+PROCESS-NAME,iad1tya.echo.music
+PROCESS-NAME,com.maxrave.simpmusic
+PROCESS-NAME,com.spotify.music
+PROCESS-NAME,com.dd3boh.outertune
+PROCESS-NAME,com.metrolist.music
+PROCESS-NAME,dev.brahmkshatriya.echo.nightly
