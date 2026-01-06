@@ -72,6 +72,9 @@
 +.cmliussss.net
 +.cmliussss.com
 
+# anytype
++.anytype.io
+
 
 
 
