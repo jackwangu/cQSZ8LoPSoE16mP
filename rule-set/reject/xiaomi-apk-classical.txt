@@ -1,0 +1,19 @@
+# 小米系统apk
+
+PROCESS-NAME,com.mi.android.globallauncher
+PROCESS-NAME,com.miui.gallery
+PROCESS-NAME,com.android.soundrecorder
+PROCESS-NAME,com.android.camera
+PROCESS-NAME,com.mi.android.globalFileexplorer
+PROCESS-NAME,com.miui.cloudbackup
+PROCESS-NAME,com.miui.cloudservice
+PROCESS-NAME,com.xiaomi.account
+PROCESS-NAME,com.miui.miservice
+PROCESS-NAME,com.miui.bugreport
+PROCESS-NAME,com.miui.securityadd
+PROCESS-NAME,com.lbe.security.miui
+PROCESS-NAME,com.xiaomi.xmsf
+PROCESS-NAME,com.miui.daemon
+PROCESS-NAME,com.miui.securitycore
+PROCESS-NAME,com.miui.guardprovider
+PROCESS-NAME,com.miui.securitycenter
