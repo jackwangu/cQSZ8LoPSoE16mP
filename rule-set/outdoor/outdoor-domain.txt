@@ -75,6 +75,8 @@
 # anytype
 +.anytype.io
 +.any.coop
++.anytype.org
++.anyclub.org
 
 
 
