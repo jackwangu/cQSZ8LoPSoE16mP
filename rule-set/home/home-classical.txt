@@ -49,3 +49,4 @@ PROCESS-NAME,com.deepseek.chat
 PROCESS-NAME,com.jingdong.app.mall
 PROCESS-NAME,com.hpbr.bosszhipin
 PROCESS-NAME,com.jd.jxj
+PROCESS-NAME,com.xiaomi.smarthome
