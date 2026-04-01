@@ -1,4 +1,5 @@
 # 未分类
++.openrouter.ai
 +.deeplx.org
 +.gh-proxy.com
 +.23img.com
