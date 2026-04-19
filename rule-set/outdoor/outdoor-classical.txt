@@ -15,3 +15,4 @@ PROCESS-NAME,com.twitter.android
 PROCESS-NAME,ch.protonmail.android
 PROCESS-NAME,com.typeless.mobile
 PROCESS-NAME,com.google.android.googlequicksearchbox
+PROCESS-NAME,com.strava
