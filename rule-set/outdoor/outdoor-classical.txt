@@ -16,3 +16,4 @@ PROCESS-NAME,ch.protonmail.android
 PROCESS-NAME,com.typeless.mobile
 PROCESS-NAME,com.google.android.googlequicksearchbox
 PROCESS-NAME,com.strava
+PROCESS-NAME,com.fifa.tournament
