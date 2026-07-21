@@ -1,4 +1,5 @@
 # 未分类
++.rsshub.app
 +.openrouter.ai
 +.deeplx.org
 +.gh-proxy.com
