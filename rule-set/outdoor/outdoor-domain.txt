@@ -1,4 +1,5 @@
 # 未分类
+
 +.rsshub.app
 +.openrouter.ai
 +.deeplx.org
@@ -56,6 +57,7 @@
 +.xn--ngstr-lra8j.com
 
 # 代理工具防漏兜底
++.vps789.com
 +.nikkinikki.pages.dev
 +.ipleak.net
 +.ip.sb
