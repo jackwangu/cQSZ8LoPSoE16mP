@@ -35,11 +35,6 @@
 # moon影视、cm影视
 +.cmoontv.dedyn.io
 
-# dns泄露检测
-+.browserleaks.net
-+.browserleaks.com
-+.browserleaks.org
-
 # grok
 +.statsigcdn.com
 +.statsigapi.net
@@ -61,6 +56,9 @@
 +.nikkinikki.pages.dev
 +.ipleak.net
 +.dnsleaktest.com
++.browserleaks.net
++.browserleaks.com
++.browserleaks.org
 +.ip.sb
 +.itdog.cn
 +.ipdata.co
