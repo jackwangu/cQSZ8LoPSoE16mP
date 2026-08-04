@@ -60,6 +60,7 @@
 +.vps789.com
 +.nikkinikki.pages.dev
 +.ipleak.net
++.dnsleaktest.com
 +.ip.sb
 +.itdog.cn
 +.ipdata.co
