@@ -1,5 +1,8 @@
 # 未分类
 
+
+
+
 +.rsshub.app
 +.openrouter.ai
 +.deeplx.org
@@ -31,6 +34,20 @@
 +.framatube.org
 +.jsdelivr.net
 +.githubusercontent.com
+
+# 福利吧
++.fuliba2023.net
++.fuliba2025.net
++.fuliba.net
++.fuliba66.net
++.f.uliba.net
++.fuliba123.com
++.fuliba123.net
++.www.wnflb2023.com
++.www.wnflb99.com
++.www.wnflb00.com
++.bbs.fuliba.net
++.www.fuliba.de
 
 # moon影视、cm影视
 +.cmoontv.dedyn.io
