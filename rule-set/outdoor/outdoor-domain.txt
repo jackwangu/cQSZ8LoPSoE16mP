@@ -49,6 +49,9 @@
 +.bbs.fuliba.net
 +.www.fuliba.de
 
+# 机场
++.crvesoft.top
+
 # moon影视、cm影视
 +.cmoontv.dedyn.io
 
